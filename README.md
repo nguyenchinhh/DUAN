@@ -4,7 +4,7 @@ Dữ liệu tải tại: https://drive.google.com/drive/folders/1tiGyDgnpllyeLJl
 *) Kết quả :
 - Dự án xuất ra hai báo cáo tổng hợp phục vụ phân tích KPI kinh doanh:
   1. Báo cáo lợi nhuận và chi phí theo khu vực (HEAD, Miền Bắc, Miền Nam, Miền Trung, ...) 
-   → Giúp đánh giá hiệu quả hoạt động theo vùng, theo nhóm sản phẩm, và hỗ trợ phân bổ chỉ tiêu hợp lý.
+  => Giúp đánh giá hiệu quả hoạt động theo vùng, theo nhóm sản phẩm, và hỗ trợ phân bổ chỉ tiêu hợp lý.
    
   2. Bảng xếp hạng hiệu suất từng khu vực và ASM 
    → Tổng hợp các chỉ số:
@@ -14,7 +14,7 @@ Dữ liệu tải tại: https://drive.google.com/drive/folders/1tiGyDgnpllyeLJl
    - NPL trước WO lũy kế
    - CIR, Margin, Hiệu suất trên vốn, Hiệu suất bình quân nhân sự
    - Tổng điểm và Xếp hạng cuối (rank_final)
-   → Báo cáo hiển thị chi tiết trên Excel và Power BI, giúp nhận diện khu vực/ASM có hiệu quả vượt trội hoặc cần cải thiện.
+   => Báo cáo hiển thị chi tiết trên Excel và Power BI, giúp nhận diện khu vực/ASM có hiệu quả vượt trội hoặc cần cải thiện.
 
   4. Một số chỉ số nổi bật từ kết quả mẫu:
     - Tổng doanh thu sau phân bổ: ≈ 690,6 tỷ
@@ -24,5 +24,5 @@ Dữ liệu tải tại: https://drive.google.com/drive/folders/1tiGyDgnpllyeLJl
   4. File kết quả:  
     - report_xep_hang_kinh_doanh_monthly.xlsx
 
-=> Kết luận:  +) Dự án được xây dựng nhằm tự động hoá quy trình báo cáo kinh doanh định kỳ,  
+=> Kết luận:  +) Dự án được xây dựng nhằm tự động hoá quy trình báo cáo kinh doanh định kỳ.  
               +) kết nối dữ liệu SQL → Excel → Power BI, phục vụ phân tích KPI và ra quyết định quản trị.
