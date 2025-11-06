@@ -2,7 +2,7 @@ Dữ liệu tải tại: https://drive.google.com/drive/folders/1tiGyDgnpllyeLJl
 ## 
 
 *) Kết quả :
-- Dự án xuất ra hai báo cáo tổng hợp phục vụ phân tích KPI kinh doanh:
+Dự án xuất ra hai báo cáo tổng hợp phục vụ phân tích KPI kinh doanh:
 1. **Báo cáo lợi nhuận và chi phí theo khu vực** (HEAD, Miền Bắc, Miền Nam, Miền Trung, ...)  
    → Giúp đánh giá hiệu quả hoạt động theo vùng, theo nhóm sản phẩm, và hỗ trợ phân bổ chỉ tiêu hợp lý.
 
